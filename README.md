@@ -3,7 +3,7 @@ I am BCA '25 student at Banasthali Vidyapith<br>I am learning various technologi
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@mochistudyss) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]((https://www.instagram.com/mochistudyss/)) 
 [![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn]([https://www.linkedin.com/tushti])
 &nbsp;
 
