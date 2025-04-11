@@ -1,9 +1,8 @@
 # 💫 About Me:
-I am BCA '25 student at Banasthali Vidyapith<br>I am learning various technologies like full stack,AI/ML , Data Science <br>My projects include languages like java,c,c++,python,javascript<br>Fun fact I have a studygram account @mochistudyss on instagram<br>I love coding and dancing<br>
+I am BCA '25 student at Banasthali Vidyapith<br>I am learning various technologies like full stack,AI/ML , Data Science <br>My projects include languages like java,c,c++,python,javascript<br>Fun factI love coding and dancing<br>
 
 
 ## 🌐Socials
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/mochistudyss/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile)
 
 
